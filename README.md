@@ -2,7 +2,7 @@
 
 * For impound menu add this export to you script according to your need it will open impound menu where ever u access using menu
 
-TriggerEvent('HRP:ESX:impoundMenu')
+TriggerEvent('hrp_pd_impound:impoundMenu')
 
 
 * I'm not sure if I will expand it in the future, if you do find any bugs though please let me know.
